@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 🌱 I’m currently learning ML through youtube videos
 - 💞️ I’m looking to collaborate on projects dealing with data science and ml
-- 📫 Reach me on Gmail: akshayprasad.psm@gmail.com
+- 📫 Reach me on Gmail: akshayprashad.psm@gmail.com
   
 
 <!---
