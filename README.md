@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-Prashad
 - 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning ML through youtube videos
+- 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on projects dealing with data science and ml
 - 📫 Reach me on Gmail: akshayprashad.psm@gmail.com
   
